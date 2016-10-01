@@ -3,14 +3,16 @@
 #{MAXONLINE} Show the number of max player online
 #{PLAYERNAME} Shows player's name
 #===========================================#
-LINE1: "§8====§e+§8===="
-LINE2: "§bWelcome §a{PLAYERNAME},§b to §9Enchanted§2Realms§b!"
-LINE3: "§e§lPLAYERS§r§8 » §a{ONLINE}§b/§a{MAXONLINE}"
-LINE4: "§e§lSTORE§r§8 » §aEnchantedRealms.buycraft.net"
-LINE5: "§e§lFORUMS§r§8 » §aERPE.enjin.com"
-LINE6: "§e§lFACTIONS§r§8 » §bMake you own faction using §a/f create (name)§b!"
-LINE7: "§bLast of all, have fun!"
-LINE8: "§8====§e+§8===="
+LINE1: "§1===================================================="
+LINE2: "§bWelcome to §9Enchanted§2Realms§b Factions!"
+LINE3: "§e§lFACTIONS§r§8 » §bMake you own faction using §a/f create (name)§b!"
+LINE4: "§e§lPvP§r§8 »§b Jump from spawn or do §a/warp pvp§b!"
+LINE5: "§e§lIN-GAME SHOP§r§8 »§a /warp shop"
+LINE6: "§e§lDONATORS§r§8 »§a /warp donor"
+LINE7: "§e§lFORUMS§r§8 » §aERPE.enjin.com"
+LINE8: "§e§lSTORE§r§8 » §aEnchantedRealms.buycraft.net"
+LINE9: "§e§lPLAYERS§r§8 » §a{ONLINE}§b/§a{MAXONLINE}"
+LINE10: "§1===================================================="
 #Coordinates
 Xs: 108
 Ys: 93
