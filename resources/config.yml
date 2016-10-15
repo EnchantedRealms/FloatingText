@@ -3,16 +3,16 @@
 #{MAXONLINE} Show the number of max player online
 #{PLAYERNAME} Shows player's name
 #===========================================#
-LINE1: "§1===================================================="
-LINE2: "§bWelcome to §9Enchanted§2Realms§b Factions!"
-LINE3: "§e§lFACTIONS§r§8 » §bMake you own faction using §a/f create (name)§b!"
-LINE4: "§e§lPvP§r§8 »§b Jump from spawn or do §a/warp pvp§b!"
-LINE5: "§e§lIN-GAME SHOP§r§8 »§a /warp shop"
-LINE6: "§e§lDONATORS§r§8 »§a /warp donor"
-LINE7: "§e§lFORUMS§r§8 » §aERPE.enjin.com"
-LINE8: "§e§lSTORE§r§8 » §aEnchantedRealms.buycraft.net"
-LINE9: "§e§lPLAYERS§r§8 » §a{ONLINE}§b/§a{MAXONLINE}"
-LINE10: "§1===================================================="
+LINE1: "§bWelcome to §l§5Mythical§9PE§2 Jungle Realm!"
+LINE2: "             §8-===+===-"
+LINE3: "§bThis is a §l§5Mythical§9PE§r§b Factions Server!"
+LINE4: "§bTo get a starter kit, do §e/kit starter§b!"
+LINE5: "§bTo start a faction, do §e/f create§b!"
+LINE6: "§bWant to support the server? Donate at §eEnchantedRealms.buycraft.net"
+LINE7: "§bIf you purchase a rank on this realm, you'll recieve access to new commands and more!"
+LINE8: "§bWant to pvp? Jump off of §e/spawn§b or go to §e/warp pvp§b!"
+LINE9: "§bThe forums link is §eERPE.enjin.com"
+LINE10: "§7There are a total of §l§e{ONLINE} §r§7players out of §l§e{MAXONLINE}"
 #Coordinates
 Xs: 108
 Ys: 93
